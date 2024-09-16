@@ -65,11 +65,6 @@
     repository and submit pull requests. We welcome any enhancements, bug fixes, or additional features that can improve
     the functionality of the system.</p>
 
-  <h2>License</h2>
-
-  <p>This Employee Management System is open-source and distributed under the <a href="LICENSE">MIT License</a>. Feel
-    free to use, modify, and distribute it as needed.</p>
-
   <h2>Acknowledgments</h2>
 
   <p>We would like to express our gratitude to the contributors and the open-source community for their support and
